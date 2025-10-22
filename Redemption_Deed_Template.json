@@ -1,0 +1,80 @@
+{
+    "document_title": "Redemption Deed / Memorandum of Redemption of Title Deeds",
+    "date": "________________________, 20____",
+    "bank_details": {
+        "bank_name": "[Bank Name]",
+        "branch_name": "[Branch Name]",
+        "city": "[City]"
+    },
+    "mortgagor_details": {
+        "name": "[Full Name]",
+        "father_name": "[Father\u2019s Name]",
+        "cnic": "[CNIC No.]",
+        "address": "[Full Address]"
+    },
+    "customer_details": {
+        "customer_name": "M/s [Customer Name]",
+        "business_address": "[Business Address]"
+    },
+    "original_modtd_date": "[Date of Original MODTD]",
+    "sections": {
+        "1_background": "Pursuant to the Memorandum of Deposit of Title Deeds dated [Date of Original MODTD], and any Supplemental Memorandum(s) executed thereafter, I/We had deposited with you the title documents listed in Schedule\u2013I thereto, relating to the property mentioned in Schedule\u2013II thereto, creating an equitable mortgage in your favour as security for the banking/credit facilities extended to M/s [Customer Name].",
+        "2_redemption_and_discharge": "I/We hereby confirm that the said banking/credit facilities have been fully repaid, satisfied, and discharged to your complete satisfaction, and that no amounts whatsoever remain due or outstanding by me/us or the Customer/s to the Bank under the said facilities. Accordingly, I/We hereby request and confirm that the said mortgage stands redeemed, and the Bank\u2019s charge over the mortgaged property described in Schedule\u2013II stands released and discharged in full.",
+        "3_return_of_documents": "You are hereby authorized and requested to return all original title documents and other papers deposited with you under the aforesaid Memorandum(s) to me/us, or to my/our duly authorized representative.",
+        "4_confirmation_by_bank": "The Bank hereby acknowledges and confirms that the said facilities have been fully repaid and that the equitable mortgage created by deposit of title deeds stands redeemed and discharged to its satisfaction."
+    },
+    "execution": {
+        "mortgagor_signature": {
+            "name": "[Full Name]",
+            "cnic": "[CNIC No.]",
+            "address": "[Address]"
+        },
+        "bank_representative_signature": {
+            "name": "[Authorized Officer Name]",
+            "designation": "[Designation]",
+            "bank_branch": "[Bank Name & Branch]"
+        }
+    },
+    "witnesses": [
+        {
+            "name": "[Witness 1 Name]",
+            "cnic": "[Witness 1 CNIC]",
+            "address": "[Witness 1 Address]"
+        },
+        {
+            "name": "[Witness 2 Name]",
+            "cnic": "[Witness 2 CNIC]",
+            "address": "[Witness 2 Address]"
+        }
+    ],
+    "schedule_I": [
+        {
+            "sr_no": 1,
+            "description": "",
+            "date": "",
+            "remarks": ""
+        },
+        {
+            "sr_no": 2,
+            "description": "",
+            "date": "",
+            "remarks": ""
+        },
+        {
+            "sr_no": 3,
+            "description": "",
+            "date": "",
+            "remarks": ""
+        }
+    ],
+    "schedule_II": {
+        "description": "[Property Description]",
+        "location": "[Location]",
+        "area": "[Area]",
+        "ownership_details": "[Ownership Details]"
+    },
+    "drafted_by": {
+        "firm_name": "[Your Law Firm Name]",
+        "address": "[Address / Contact Details]"
+    }
+}
