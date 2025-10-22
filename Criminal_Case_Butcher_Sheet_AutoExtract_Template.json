@@ -1,0 +1,147 @@
+{
+    "auto_extract_template": {
+        "source_document": "",
+        "metadata": {
+            "extraction_date": "",
+            "extracted_by": "AI_Bot",
+            "document_type": "Criminal Case File",
+            "confidence_score": ""
+        },
+        "case_information": {
+            "case_title": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "court_or_bench": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "case_number_or_docket": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "fir_number": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "police_station": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "district": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "complainant_or_victim": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "accused_or_petitioner": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            },
+            "advocates_prosecution_defence": {
+                "value": "",
+                "source_text": "",
+                "confidence": ""
+            }
+        },
+        "core_facts_snapshot": {
+            "summary_text": "",
+            "key_points": []
+        },
+        "statutory_references": [
+            {
+                "section": "",
+                "law_name": "",
+                "context_excerpt": ""
+            }
+        ],
+        "timeline_of_events": [
+            {
+                "date": "",
+                "event_description": "",
+                "source_excerpt": ""
+            }
+        ],
+        "evidence_inventory": [
+            {
+                "evidence_type": "",
+                "description": "",
+                "exhibit_number": "",
+                "remarks": "",
+                "source_excerpt": ""
+            }
+        ],
+        "witness_register": [
+            {
+                "witness_name": "",
+                "designation_or_role": "",
+                "statement_summary": "",
+                "examination_date": "",
+                "source_excerpt": ""
+            }
+        ],
+        "lower_court_orders": [
+            {
+                "order_date": "",
+                "court_name": "",
+                "order_summary": "",
+                "source_excerpt": ""
+            }
+        ],
+        "impugned_orders_and_appellate_history": [
+            {
+                "impugned_order_date": "",
+                "impugned_by": "",
+                "court": "",
+                "outcome_or_status": "",
+                "source_excerpt": ""
+            }
+        ],
+        "important_orders_extracts": [
+            {
+                "order_date": "",
+                "excerpt": "",
+                "relevance": "",
+                "source_excerpt": ""
+            }
+        ],
+        "legal_issues": [
+            {
+                "issue": "",
+                "related_law": "",
+                "discussion": "",
+                "source_excerpt": ""
+            }
+        ],
+        "snippet_notes": {
+            "extracted_snippets": []
+        },
+        "hearings_and_deadlines": [
+            {
+                "date": "",
+                "description": "",
+                "status": "",
+                "source_excerpt": ""
+            }
+        ],
+        "case_summary": {
+            "summary_text": "",
+            "key_findings": [],
+            "source_excerpt": ""
+        },
+        "additional_notes": {
+            "remarks": "",
+            "source_excerpt": ""
+        }
+    }
+}
